@@ -1,0 +1,14 @@
+.
+├── archetypes
+│   └── default.md
+├── assets
+├── content
+├── data
+├── directory_structure.txt
+├── hugo.toml
+├── i18n
+├── layouts
+├── static
+└── themes
+
+9 directories, 3 files

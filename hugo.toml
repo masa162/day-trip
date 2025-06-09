@@ -1,0 +1,4 @@
+baseURL = 'https://masa162.github.io/day-trip/'
+languageCode = 'ja'
+title = 'Day Trip'
+disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
